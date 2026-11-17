@@ -77,6 +77,16 @@ The game also tracks how long it takes players to identify all the characters. W
 
 - **Score Recording:** Allow players to submit their names and completion times after finishing a round.
 
+## Screenshots
+
+![Start leader-board](./docs/screenshots/leader-board.png)
+![game-start](./docs/screenshots/game-start.png)
+![game-play](./docs/screenshots/game-play.png)
+![coordinate-info](./docs/screenshots/coordinate-info.png)
+![character-select](./docs/screenshots/character-select.png)
+![game-status](./docs/screenshots/game-status.png)
+![game-over](./docs/screenshots/game-over.png)
+
 ## Live Demo : [Play the Game](https://amalk.au/full-stack-photo-tagging-game)
 
 Try the application:
@@ -286,8 +296,8 @@ full-stack-photo-tagging-game/
 
 Run these commands from the `frontend` directory.
 
-| Command           | Description                         |
-| ----------------- | ----------------------------------- |
+| Command            | Description                         |
+| ------------------ | ----------------------------------- |
 | `pnpm run dev`     | Start the Vite development server   |
 | `pnpm run build`   | Build the frontend for production   |
 | `pnpm run preview` | Preview the production build        |
@@ -298,8 +308,8 @@ Run these commands from the `frontend` directory.
 
 Run these commands from the `backend` directory.
 
-| Command       | Description                          |
-| ------------- | ------------------------------------ |
+| Command        | Description                          |
+| -------------- | ------------------------------------ |
 | `pnpm start`   | Start the Express server             |
 | `pnpm run dev` | Start the server in development mode |
 
@@ -401,7 +411,7 @@ Configure the necessary environment variables in the Render dashboard.
 
 | Issue                                    | Possible Solution                                                   |
 | ---------------------------------------- | ------------------------------------------------------------------- |
-| Dependencies fail to install             | Check your Node.js and npm versions, then run `pnpm install` again.  |
+| Dependencies fail to install             | Check your Node.js and npm versions, then run `pnpm install` again. |
 | Backend fails to start                   | Check the environment variables and installed dependencies.         |
 | CORS errors                              | Verify that `CORS_URL` matches the frontend origin.                 |
 | Frontend cannot communicate with backend | Check the backend URL and ensure the server is running.             |
