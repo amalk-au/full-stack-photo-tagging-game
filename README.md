@@ -79,13 +79,33 @@ The game also tracks how long it takes players to identify all the characters. W
 
 ## Screenshots
 
-![Start leader-board](./docs/screenshots/leader-board.png)
-![game-start](./docs/screenshots/game-start.png)
-![game-play](./docs/screenshots/game-play.png)
-![coordinate-info](./docs/screenshots/coordinate-info.png)
-![character-select](./docs/screenshots/character-select.png)
-![game-status](./docs/screenshots/game-status.png)
-![game-over](./docs/screenshots/game-over.png)
+<p align="center">
+  <img src="./docs/screenshots/leader-board.png" alt="Start Leaderboard" width="800" />
+</p>
+
+<p align="center">
+  <img src="./docs/screenshots/game-start.png" alt="Game Start" width="800" />
+</p>
+
+<p align="center">
+  <img src="./docs/screenshots/game-play.png" alt="Gameplay" width="800" />
+</p>
+
+<p align="center">
+  <img src="./docs/screenshots/coordinate-info.png" alt="Coordinate Information" width="600" />
+</p>
+
+<p align="center">
+  <img src="./docs/screenshots/character-select.png" alt="Character Selection" width="400" />
+</p>
+
+<p align="center">
+  <img src="./docs/screenshots/game-status.png" alt="Game Status" width="400" />
+</p>
+
+<p align="center">
+  <img src="./docs/screenshots/game-over.png" alt="Game Over" width="400" />
+</p>
 
 ## Live Demo : [Play the Game](https://amalk.au/full-stack-photo-tagging-game)
 
